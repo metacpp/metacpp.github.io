@@ -5,3 +5,4 @@ date:   2014-11-11 22:19:00
 categories: welcome
 ---
 
+This is the first post about hacker's delight!
