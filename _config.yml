@@ -12,4 +12,9 @@ github_username:  metacpp
 
 # Build settings
 markdown: kramdown
+
+# Grammar highlightings
 highlighter: rouge
+
+# Encoding on windows
+encoding: utf-8
