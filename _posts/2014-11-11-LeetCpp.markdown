@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "LeetCpp"
+date:   2014-11-11 21:37:00
+categories: leetcode,c++
+---
+Start to share the insights for LeetCode in c++.
