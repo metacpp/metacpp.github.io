@@ -13,6 +13,4 @@ github_username:  metacpp
 # Build settings
 markdown: kramdown
 
-# Grammar highlightings
-highlighter: rouge
 
