@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am just a programmer.
+I am just a little programmer.

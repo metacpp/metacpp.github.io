@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to Programmer X"
+date:   2014-05-05 15:00:00
+categories: misc
+---
+
+```
+int main() {
+  std::cout << "Welcome to Programmer X's world!" << std::endl;
+}
+```
